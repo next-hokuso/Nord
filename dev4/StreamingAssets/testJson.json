@@ -1,0 +1,405 @@
+{
+    "filename": "outputTest.pdf",
+    "orientation": "portrait",
+    "format": "a4",
+    "pages": [
+        {
+            "elements": [
+                {
+                    "type": "line",
+                    "x1": 29,
+                    "y1": 126,
+                    "x2": 566,
+                    "y2": 126,
+                    "lineWidth": 3
+                },
+                {
+                    "type": "line",
+                    "x1": 29,
+                    "y1": 804,
+                    "x2": 566,
+                    "y2": 804,
+                    "lineWidth": 3
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 125,
+                    "x2": 30,
+                    "y2": 805,
+                    "lineWidth": 3
+                },
+                {
+                    "type": "line",
+                    "x1": 565,
+                    "y1": 125,
+                    "x2": 565,
+                    "y2": 805,
+                    "lineWidth": 3
+                },
+                {
+                    "type": "line",
+                    "x1": 137,
+                    "y1": 125,
+                    "x2": 137,
+                    "y2": 805
+                },
+                {
+                    "type": "line",
+                    "x1": 244,
+                    "y1": 125,
+                    "x2": 244,
+                    "y2": 805
+                },
+                {
+                    "type": "line",
+                    "x1": 351,
+                    "y1": 125,
+                    "x2": 351,
+                    "y2": 805
+                },
+                {
+                    "type": "line",
+                    "x1": 458,
+                    "y1": 125,
+                    "x2": 458,
+                    "y2": 805
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 165,
+                    "x2": 565,
+                    "y2": 165
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 185,
+                    "x2": 565,
+                    "y2": 185
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 205,
+                    "x2": 565,
+                    "y2": 205
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 225,
+                    "x2": 565,
+                    "y2": 225
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 245,
+                    "x2": 565,
+                    "y2": 245
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 265,
+                    "x2": 565,
+                    "y2": 265
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 285,
+                    "x2": 565,
+                    "y2": 285
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 305,
+                    "x2": 565,
+                    "y2": 305
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 325,
+                    "x2": 565,
+                    "y2": 325
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 345,
+                    "x2": 565,
+                    "y2": 345
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 365,
+                    "x2": 565,
+                    "y2": 365
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 385,
+                    "x2": 565,
+                    "y2": 385
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 405,
+                    "x2": 565,
+                    "y2": 405
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 425,
+                    "x2": 565,
+                    "y2": 425
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 445,
+                    "x2": 565,
+                    "y2": 445
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 465,
+                    "x2": 565,
+                    "y2": 465
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 485,
+                    "x2": 565,
+                    "y2": 485
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 505,
+                    "x2": 565,
+                    "y2": 505
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 525,
+                    "x2": 565,
+                    "y2": 525
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 545,
+                    "x2": 565,
+                    "y2": 545
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 565,
+                    "x2": 565,
+                    "y2": 565
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 585,
+                    "x2": 565,
+                    "y2": 585
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 605,
+                    "x2": 565,
+                    "y2": 605
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 625,
+                    "x2": 565,
+                    "y2": 625
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 645,
+                    "x2": 565,
+                    "y2": 645
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 665,
+                    "x2": 565,
+                    "y2": 665
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 685,
+                    "x2": 565,
+                    "y2": 685
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 705,
+                    "x2": 565,
+                    "y2": 705
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 725,
+                    "x2": 565,
+                    "y2": 725
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 745,
+                    "x2": 565,
+                    "y2": 745
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 765,
+                    "x2": 565,
+                    "y2": 765
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 785,
+                    "x2": 565,
+                    "y2": 785
+                },
+                {
+                    "type": "text",
+                    "value": "タイトル",
+                    "x": 297,
+                    "y": 60,
+                    "fontSize": 24,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "ページ",
+                    "x": 565,
+                    "y": 110,
+                    "fontSize": 10,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "項目1",
+                    "x": 83,
+                    "y": 145,
+                    "fontSize": 12,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "項目2",
+                    "x": 190,
+                    "y": 145,
+                    "fontSize": 12,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "項目3",
+                    "x": 297,
+                    "y": 145,
+                    "fontSize": 12,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "項目4",
+                    "x": 404,
+                    "y": 145,
+                    "fontSize": 12,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "項目5",
+                    "x": 511,
+                    "y": 145,
+                    "fontSize": 12,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "内容1",
+                    "x": 83,
+                    "y": 174,
+                    "fontSize": 12,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "内容2",
+                    "x": 190,
+                    "y": 174,
+                    "fontSize": 12,
+                    "width": 102,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "内容3",
+                    "x": 297,
+                    "y": 174,
+                    "fontSize": 12,
+                    "width": 102,
+                    "halign": "left",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "内容4",
+                    "x": 404,
+                    "y": 174,
+                    "fontSize": 12,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "内容5",
+                    "x": 511,
+                    "y": 174,
+                    "fontSize": 12,
+                    "halign": "center",
+                    "valign": "middle"
+                }
+            ]
+        }
+    ]
+}

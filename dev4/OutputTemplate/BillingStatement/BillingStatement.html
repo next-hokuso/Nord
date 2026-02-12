@@ -1,0 +1,45 @@
+<!--  common_print.css にidの汎用指定記載 -->
+
+
+<div id="report-root">
+
+  <!-- ===== 1ページ分のテンプレ ===== -->
+  <section class="report-page">
+
+    <!-- タイトルテキスト -->
+    <div id="report-title" class="text_center bold underline fs-18 mb-6"></div>
+
+    <!--  御中テキスト -->
+    <div class="fs-14 mb-8 text_left underline">
+      <span id="customerName"></span>
+    </div>
+
+    <table class="detail-table">
+      <!--  列幅 (この記載がないと表が表示されません -->
+      <colgroup>
+        <col style="width: 15mm">
+        <col style="width: 30mm">
+        <col style="width: 20mm">
+        <col style="width: 70mm">
+        <col style="width: 38mm">
+
+        <col style="width: 34mm">
+        <col style="width: 30mm">
+        <col style="width: 30mm">
+        <col style="width: 30mm">
+        <col style="width: 30mm">
+
+        <col style="width: 30mm">
+        <col style="width: 30mm">
+    </colgroup>
+
+
+
+    <!-- セル詳細代入箇所 -->
+    <tbody id="detail-body"></tbody>
+  </table>
+
+  </section>
+
+</div>
+

@@ -1,0 +1,191 @@
+/* =========================================
+  汎用の帳票用レイアウトcss
+========================================= */
+/* -----------------------------------------
+  印刷時の表示制御（最重要
+----------------------------------------- */
+/* 通常時 */
+#report-root {
+  display: none;
+}
+
+/* 印刷時のみ表示 */
+@media print {
+  @page {
+    size : A4 landscape; /* 横向き指定 幅297mm (縦の幅の場合は210mm) */
+    margin: 0mm;
+  }
+  
+  /* 背景のグラフィックON時の背景色白の対応 */
+  body{
+    margin: 0;
+    background: #fff !important;
+  }
+
+  /* 印刷プレビュー前後の表示処理 */
+  body.printing #report-root {
+    display: block !important;
+  }
+  body.printing #unity-container {
+    display: none !important;
+  }
+}
+
+/* -----------------------------------------
+  ページ設定
+----------------------------------------- */
+/* A4ページ基本設定 */
+.sheet {
+  width: 287mm; /* 297 - 10 */
+  /* min-height: 297mm; min-height + paddingがあるとA4の高さ297mmを超えたとされるため消す*/
+  margin: 0;
+  page-break-after: always;
+}
+
+/* フォント */
+body{
+  font-family: "Yu Gothic", "Meiryo", "Noto Sans JP", sans-serif;
+}
+
+.report-page {
+  width: 287mm;
+  margin-left: 5mm;
+  margin-right: 5mm;
+  padding: 0;
+}
+
+section {
+  width: 287mm;
+}
+
+/* -----------------------------------------
+  テーブル基本
+----------------------------------------- */
+table {
+  width: 100%;
+  border-collapse: collapse;  /* ここをcollapseではなくseparateにしないと罫線をまとめられた際に太さが上書きされる */
+  /*border-spacing: 0;*/
+  border: 2pt solid #000 !important;
+}
+
+/* 通常罫線（少し細め） */
+th, td {
+ padding: 0.5mm;
+ font-size: 10pt; /* 基準サイズ */
+ background: #fff;
+
+ border: 1px solid #000;
+}
+
+/* 明細途中で改ページしない */
+tr {
+  page-break-inside: avoid;
+}
+
+/* 最初の列の右側の罫線を太くできないため　セル指定の設定用 */
+.col_line_r {
+  border-right: 2px solid #000;
+}
+
+/* セル指定の背景カラー設定(固定) */
+.col_color_set {
+   background: #C0C0C0;
+}
+
+/* -----------------------------------------
+  汎用Utility  - Alignなどの書式設定 -
+----------------------------------------- */
+/* 文字揃え */
+.right {
+text-align: right;
+}
+.text_right { text-align: right; }
+.text_left { text-align: left; }
+.text_center { text-align: center; }
+
+/* 垂直揃え */
+.v_top { vertical-align: top; }
+.v_middle { vertical-align: middle; }
+.v_bottom { vertical-align: bottom; }
+
+/* ---------- 文字装飾 ---------- */
+.bold      { font-weight: bold; }
+.underline { text-decoration: underline; }
+
+/* ---------- フォントサイズ ---------- */
+.fs-8  { font-size: 8pt; }
+.fs-9  { font-size: 9pt; }
+.fs-10 { font-size: 10pt; }
+.fs-11 { font-size: 11pt; }
+.fs-12 { font-size: 12pt; }
+.fs-14 { font-size: 14pt; }
+.fs-18 { font-size: 18pt; }
+
+/* ---------- 余白（mm基準） ---------- */
+.mb-2 { margin-bottom: 2mm; }
+.mb-4 { margin-bottom: 4mm; }
+.mb-6 { margin-bottom: 6mm; }
+.mb-8 { margin-bottom: 8mm; }
+
+.mt-2 { margin-top: 2mm; }
+.mt-4 { margin-top: 4mm; }
+.mt-6 { margin-top: 6mm; }
+
+
+/* ===== セル高さ定義（mm基準） ===== */
+.h-3  { height: 3mm; }
+.h-4  { height: 4mm; }
+.h-5  { height: 5mm; }
+.h-6  { height: 6mm; }
+.h-7  { height: 7mm; }
+.h-8  { height: 8mm; }
+.h-10 { height: 10mm; }
+
+
+
+/* -----------------------------------------
+  汎用Utility  - 共通で使うタイトルテキスト/御中など -
+----------------------------------------- */
+/* 書類名（中央・太字・下線） */
+.cmn_document-title {
+  text-align: center;
+  font-size: 18pt;
+  font-weight: bold;
+  text-decoration: underline;
+  margin-bottom: 6mm;
+}
+
+/* 御中（左寄せ） */
+.cmn_customer-name {
+  text-align: left;
+  font-size: 18pt;
+  text-decoration: underline;
+  margin-bottom: 8mm;
+}
+
+/* -----------------------------------------
+  ヘッダー/フッター
+----------------------------------------- *
+/* ヘッダー/フッターの設定 */
+.report-header {
+  display: none;
+  position: static;
+
+/*
+  position: static;
+  top: 10mm;
+  left: 0;
+  right: 0;
+  text-align: center;
+  font-weight: bold;
+*/
+}
+
+.report-footer {
+  position: fixed;
+  bottom: 10mm;
+  right: 10mm;
+  font-size: 9pt;
+}
+
+

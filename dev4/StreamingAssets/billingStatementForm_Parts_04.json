@@ -1,0 +1,237 @@
+{
+    "pages": [
+        {
+            "elements": [
+                {
+                    "dummy": "合計",
+                    "type": "line",
+                    "x1": 60,
+                    "y1": 460,
+                    "x2": 811,
+                    "y2": 460,
+                    "lineWidth": 0
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 460,
+                    "x2": 30,
+                    "y2": 480,
+                    "lineWidth": 2
+                },
+                {
+                    "type": "line",
+                    "x1": 60,
+                    "y1": 460,
+                    "x2": 60,
+                    "y2": 480,
+                    "lineWidth": 2
+                },
+                {
+                    "type": "line",
+                    "x1": 140,
+                    "y1": 460,
+                    "x2": 140,
+                    "y2": 480,
+                    "lineWidth": 0
+                },
+                {
+                    "type": "line",
+                    "x1": 170,
+                    "y1": 460,
+                    "x2": 170,
+                    "y2": 480,
+                    "lineWidth": 0
+                },
+                {
+                    "type": "line",
+                    "x1": 300,
+                    "y1": 460,
+                    "x2": 300,
+                    "y2": 480,
+                    "lineWidth": 0
+                },
+                {
+                    "type": "line",
+                    "x1": 400,
+                    "y1": 460,
+                    "x2": 400,
+                    "y2": 480,
+                    "lineWidth": 0
+                },
+                {
+                    "type": "line",
+                    "x1": 475,
+                    "y1": 460,
+                    "x2": 475,
+                    "y2": 480,
+                    "lineWidth": 0
+                },
+                {
+                    "type": "line",
+                    "x1": 531,
+                    "y1": 460,
+                    "x2": 531,
+                    "y2": 480,
+                    "lineWidth": 0
+                },
+                {
+                    "type": "line",
+                    "x1": 587,
+                    "y1": 460,
+                    "x2": 587,
+                    "y2": 480,
+                    "lineWidth": 0
+                },
+                {
+                    "type": "line",
+                    "x1": 643,
+                    "y1": 460,
+                    "x2": 643,
+                    "y2": 480,
+                    "lineWidth": 0
+                },
+                {
+                    "type": "line",
+                    "x1": 699,
+                    "y1": 460,
+                    "x2": 699,
+                    "y2": 480,
+                    "lineWidth": 0
+                },
+                {
+                    "type": "line",
+                    "x1": 755,
+                    "y1": 460,
+                    "x2": 755,
+                    "y2": 480,
+                    "lineWidth": 0
+                },
+                {
+                    "type": "line",
+                    "x1": 811,
+                    "y1": 460,
+                    "x2": 811,
+                    "y2": 480,
+                    "lineWidth": 2
+                },
+                {
+                    "type": "text",
+                    "value": "",
+                    "x": 45,
+                    "y": 468,
+                    "fontSize": 7,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "合計",
+                    "x": 95,
+                    "y": 468,
+                    "fontSize": 7,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "",
+                    "x": 155,
+                    "y": 468,
+                    "fontSize": 7,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "",
+                    "x": 235,
+                    "y": 468,
+                    "fontSize": 7,
+                    "width": 130,
+                    "halign": "left",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "",
+                    "x": 350,
+                    "y": 468,
+                    "fontSize": 7,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "",
+                    "x": 439,
+                    "y": 468,
+                    "fontSize": 7,
+                    "width": 75,
+                    "halign": "left",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "",
+                    "x": 501,
+                    "y": 468,
+                    "fontSize": 7,
+                    "width": 56,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "",
+                    "x": 557,
+                    "y": 468,
+                    "fontSize": 7,
+                    "width": 56,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "",
+                    "x": 613,
+                    "y": 468,
+                    "fontSize": 7,
+                    "width": 56,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "",
+                    "x": 669,
+                    "y": 468,
+                    "fontSize": 7,
+                    "width": 56,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "",
+                    "x": 725,
+                    "y": 468,
+                    "fontSize": 7,
+                    "width": 56,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "",
+                    "x": 781,
+                    "y": 468,
+                    "fontSize": 7,
+                    "width": 56,
+                    "halign": "right",
+                    "valign": "middle"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+/* =========================================
+  請求明細書
+========================================= */
+/* -----------------------------------------
+  個別用レイアウト設定
+----------------------------------------- */
+/* 帳票 全体 */
+/* 共通テーブル */
+/* common_print 汎用を使用 */
+/* 印刷時のみの対応*/
+@media print {
+  /* 複数テーブルを表示するとタイトルテキストの上に見出しが表示されるため非表示対応 */
+  /* テーブルに見出しテキストを追加　*/
+  .detail-table thead {
+    display: none;
+  }   
+}
+
+
+/* タイトル テキスト設定 */
+#report-root .title {
+ font-size: 18pt;
+ font-weight: bold;
+ text-align: center;
+ padding: 0.5mm 0;
+}
+
+/* セル共通(flexレイアウト用) */
+#report-root .cell{
+  box-sizing: border-box;
+  display: flex;
+}
+
+/* -----------------------------------------
+  テーブル 罫線の太さ設定(テーブル枠はテーブルにて設定)
+    tr(行:横1行分) 
+     ├ th(見出しセル) 
+     └ td(データセル)
+----------------------------------------- */
+/* ヘッダー行の使用なし */
+/*
+ * ヘッダー行（th）の上下を太線 *
+thead th {
+  border-bottom: 2px solid #000 !important;
+}
+ * ヘッダー行（th）の最初の右側 *
+th:first-child {
+    border-right: 2px solid #000 !important;
+}
+*/
+
+/* 最初の行の太線設定 */
+tr:first-child td {
+  border-bottom: 2px solid #000 !important;
+}
+
+
+/* 最終行を太線 */
+tr:last-child td {
+  border-top: 2px solid #000 !important;
+}
+
+/* 1列目の右側罫線を太くするのは合体セルが含まれるため厳しい → jsonのclassにて指定している */
+
+/* -----------------------------------------
+  追加テーブル設定
+----------------------------------------- */
+.detail-table {
+  /*table-layout: fixed;*/
+  width: 287mm;
+}
+/*
+.detail-table col {
+}
+
+.detail-table th,
+.detail-table td {
+}
+
+*/
+
+
+
+

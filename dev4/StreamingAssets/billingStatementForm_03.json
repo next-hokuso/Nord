@@ -1,0 +1,279 @@
+{
+    "filename": "outputTest.pdf",
+    "orientation": "landscape",
+    "format": "a4",
+    "pages": [
+        {
+            "elements": [
+                {
+                    "dummy": "請求明細表",
+                    "type": "line",
+                    "x1": 330,
+                    "y1": 63,
+                    "x2": 510,
+                    "y2": 63,
+                    "lineWidth": 2
+                },
+                {
+                    "type": "text",
+                    "value": "請　求　明　細　表",
+                    "x": 420,
+                    "y": 50,
+                    "fontSize": 20,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+
+                {
+                    "dummy": "ｘｘｘ御中",
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 91,
+                    "x2": 190,
+                    "y2": 91,
+                    "lineWidth": 0
+                },
+                {
+                    "type": "text",
+                    "value": "京成フロンティア企画(株)松戸事業所　御中",
+                    "x": 130,
+                    "y": 85,
+                    "fontSize": 8,
+                    "width": 200,
+                    "halign": "left",
+                    "valign": "middle"
+                },
+
+                {
+                    "dummy": "月・区分～などの項目",
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 120,
+                    "x2": 811,
+                    "y2": 120,
+                    "lineWidth": 2
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 140,
+                    "x2": 811,
+                    "y2": 140,
+                    "lineWidth": 2
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 120,
+                    "x2": 30,
+                    "y2": 140,
+                    "lineWidth": 2
+                },
+                {
+                    "type": "line",
+                    "x1": 811,
+                    "y1": 120,
+                    "x2": 811,
+                    "y2": 140,
+                    "lineWidth": 2
+                },
+                {
+                    "type": "line",
+                    "x1": 60,
+                    "y1": 120,
+                    "x2": 60,
+                    "y2": 140,
+                    "lineWidth": 2
+                },
+                {
+                    "type": "line",
+                    "x1": 140,
+                    "y1": 120,
+                    "x2": 140,
+                    "y2": 140,
+                    "lineWidth": 0
+                },
+                {
+                    "type": "line",
+                    "x1": 170,
+                    "y1": 120,
+                    "x2": 170,
+                    "y2": 140,
+                    "lineWidth": 0
+                },
+                {
+                    "type": "line",
+                    "x1": 300,
+                    "y1": 120,
+                    "x2": 300,
+                    "y2": 140,
+                    "lineWidth": 0
+                },
+                {
+                    "type": "line",
+                    "x1": 400,
+                    "y1": 120,
+                    "x2": 400,
+                    "y2": 140,
+                    "lineWidth": 0
+                },
+                {
+                    "type": "line",
+                    "x1": 475,
+                    "y1": 120,
+                    "x2": 475,
+                    "y2": 140,
+                    "lineWidth": 0
+                },
+                {
+                    "type": "line",
+                    "x1": 531,
+                    "y1": 120,
+                    "x2": 531,
+                    "y2": 140,
+                    "lineWidth": 0
+                },
+                {
+                    "type": "line",
+                    "x1": 587,
+                    "y1": 120,
+                    "x2": 587,
+                    "y2": 140,
+                    "lineWidth": 0
+                },
+                {
+                    "type": "line",
+                    "x1": 643,
+                    "y1": 120,
+                    "x2": 643,
+                    "y2": 140,
+                    "lineWidth": 0
+                },
+                {
+                    "type": "line",
+                    "x1": 699,
+                    "y1": 120,
+                    "x2": 699,
+                    "y2": 140,
+                    "lineWidth": 0
+                },
+                {
+                    "type": "line",
+                    "x1": 755,
+                    "y1": 120,
+                    "x2": 755,
+                    "y2": 140,
+                    "lineWidth": 0
+                },
+                {
+                    "type": "text",
+                    "value": "月",
+                    "x": 45,
+                    "y": 128,
+                    "fontSize": 9,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "区分",
+                    "x": 95,
+                    "y": 128,
+                    "fontSize": 9,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "手数料",
+                    "x": 155,
+                    "y": 128,
+                    "fontSize": 9,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "広告主",
+                    "x": 235,
+                    "y": 128,
+                    "fontSize": 9,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "契約期間",
+                    "x": 350,
+                    "y": 128,
+                    "fontSize": 9,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "駅名",
+                    "x": 437,
+                    "y": 128,
+                    "fontSize": 9,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "掲出料",
+                    "x": 503,
+                    "y": 128,
+                    "fontSize": 9,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "消費税(10%)",
+                    "x": 559,
+                    "y": 128,
+                    "fontSize": 9,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "掲出料計",
+                    "x": 615,
+                    "y": 128,
+                    "fontSize": 9,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "手数料",
+                    "x": 671,
+                    "y": 128,
+                    "fontSize": 9,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "消費税(10%)",
+                    "x": 727,
+                    "y": 128,
+                    "fontSize": 9,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "手数料計",
+                    "x": 783,
+                    "y": 128,
+                    "fontSize": 9,
+                    "halign": "center",
+                    "valign": "middle"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,2918 @@
+{
+    "filename": "outputTest.pdf",
+    "orientation": "portrait",
+    "format": "a4",
+    "pages": [
+        {
+            "elements": [
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 125,
+                    "x2": 565,
+                    "y2": 125,
+                    "lineWidth": 2
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 805,
+                    "x2": 565,
+                    "y2": 805,
+                    "lineWidth": 2
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 125,
+                    "x2": 30,
+                    "y2": 805,
+                    "lineWidth": 2
+                },
+                {
+                    "type": "line",
+                    "x1": 565,
+                    "y1": 125,
+                    "x2": 565,
+                    "y2": 805,
+                    "lineWidth": 2
+                },
+                {
+                    "type": "line",
+                    "x1": 70,
+                    "y1": 165,
+                    "x2": 70,
+                    "y2": 805
+                },
+                {
+                    "type": "line",
+                    "x1": 200,
+                    "y1": 125,
+                    "x2": 200,
+                    "y2": 805
+                },
+                {
+                    "type": "line",
+                    "x1": 260,
+                    "y1": 145,
+                    "x2": 260,
+                    "y2": 805
+                },
+                {
+                    "type": "line",
+                    "x1": 320,
+                    "y1": 125,
+                    "x2": 320,
+                    "y2": 805
+                },
+                {
+                    "type": "line",
+                    "x1": 380,
+                    "y1": 145,
+                    "x2": 380,
+                    "y2": 805
+                },
+                {
+                    "type": "line",
+                    "x1": 440,
+                    "y1": 125,
+                    "x2": 440,
+                    "y2": 805
+                },
+                {
+                    "type": "line",
+                    "x1": 510,
+                    "y1": 125,
+                    "x2": 510,
+                    "y2": 805
+                },
+                {
+                    "type": "line",
+                    "x1": 200,
+                    "y1": 145,
+                    "x2": 440,
+                    "y2": 145
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 165,
+                    "x2": 565,
+                    "y2": 165
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 185,
+                    "x2": 565,
+                    "y2": 185
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 205,
+                    "x2": 565,
+                    "y2": 205
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 225,
+                    "x2": 565,
+                    "y2": 225
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 245,
+                    "x2": 565,
+                    "y2": 245
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 265,
+                    "x2": 565,
+                    "y2": 265
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 285,
+                    "x2": 565,
+                    "y2": 285
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 305,
+                    "x2": 565,
+                    "y2": 305
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 325,
+                    "x2": 565,
+                    "y2": 325
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 345,
+                    "x2": 565,
+                    "y2": 345
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 365,
+                    "x2": 565,
+                    "y2": 365
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 385,
+                    "x2": 565,
+                    "y2": 385
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 405,
+                    "x2": 565,
+                    "y2": 405
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 425,
+                    "x2": 565,
+                    "y2": 425
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 445,
+                    "x2": 565,
+                    "y2": 445
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 465,
+                    "x2": 565,
+                    "y2": 465
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 485,
+                    "x2": 565,
+                    "y2": 485
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 505,
+                    "x2": 565,
+                    "y2": 505
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 525,
+                    "x2": 565,
+                    "y2": 525
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 545,
+                    "x2": 565,
+                    "y2": 545
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 565,
+                    "x2": 565,
+                    "y2": 565
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 585,
+                    "x2": 565,
+                    "y2": 585
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 605,
+                    "x2": 565,
+                    "y2": 605
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 625,
+                    "x2": 565,
+                    "y2": 625
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 645,
+                    "x2": 565,
+                    "y2": 645
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 665,
+                    "x2": 565,
+                    "y2": 665
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 685,
+                    "x2": 565,
+                    "y2": 685
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 705,
+                    "x2": 565,
+                    "y2": 705
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 725,
+                    "x2": 565,
+                    "y2": 725
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 745,
+                    "x2": 565,
+                    "y2": 745
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 765,
+                    "x2": 565,
+                    "y2": 765
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 785,
+                    "x2": 565,
+                    "y2": 785
+                },
+                {
+                    "type": "text",
+                    "value": "2025年12月入金予定表（11月請求分）",
+                    "x": 297,
+                    "y": 60,
+                    "fontSize": 20,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "1頁",
+                    "x": 565,
+                    "y": 110,
+                    "fontSize": 10,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "取引先",
+                    "x": 120,
+                    "y": 144,
+                    "fontSize": 11,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "広告料等",
+                    "x": 260,
+                    "y": 134,
+                    "fontSize": 11,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "11月分後払い",
+                    "x": 230,
+                    "y": 154,
+                    "fontSize": 8,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "12月分前払い",
+                    "x": 290,
+                    "y": 154,
+                    "fontSize": 8,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "手数料等",
+                    "x": 380,
+                    "y": 134,
+                    "fontSize": 11,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "11月分後払い",
+                    "x": 350,
+                    "y": 154,
+                    "fontSize": 8,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "12月分前払い",
+                    "x": 410,
+                    "y": 154,
+                    "fontSize": 8,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "入金予定額",
+                    "x": 475,
+                    "y": 144,
+                    "fontSize": 11,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "入金日",
+                    "x": 535,
+                    "y": 144,
+                    "fontSize": 12,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "10000",
+                    "x": 50,
+                    "y": 174,
+                    "fontSize": 8,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "京成電鉄(株)",
+                    "x": 138,
+                    "y": 174,
+                    "fontSize": 7,
+                    "width": 130,
+                    "halign": "left",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "264,000",
+                    "x": 227,
+                    "y": 174,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "0",
+                    "x": 287,
+                    "y": 174,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "66,000",
+                    "x": 347,
+                    "y": 174,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "0",
+                    "x": 407,
+                    "y": 174,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "198,000",
+                    "x": 472,
+                    "y": 174,
+                    "fontSize": 8,
+                    "width": 70,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "2025/11/31",
+                    "x": 537,
+                    "y": 174,
+                    "fontSize": 8,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "11000",
+                    "x": 50,
+                    "y": 194,
+                    "fontSize": 8,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "京成バス(株)",
+                    "x": 138,
+                    "y": 194,
+                    "fontSize": 7,
+                    "width": 130,
+                    "halign": "left",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "396,000",
+                    "x": 227,
+                    "y": 194,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "0",
+                    "x": 287,
+                    "y": 194,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "66,000",
+                    "x": 347,
+                    "y": 194,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "0",
+                    "x": 407,
+                    "y": 194,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "297,000",
+                    "x": 472,
+                    "y": 194,
+                    "fontSize": 8,
+                    "width": 70,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "",
+                    "x": 537,
+                    "y": 194,
+                    "fontSize": 8,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "11100",
+                    "x": 50,
+                    "y": 214,
+                    "fontSize": 8,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "千葉交通(株)",
+                    "x": 138,
+                    "y": 214,
+                    "fontSize": 7,
+                    "width": 130,
+                    "halign": "left",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "660,000",
+                    "x": 227,
+                    "y": 214,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "0",
+                    "x": 287,
+                    "y": 214,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "165,000",
+                    "x": 347,
+                    "y": 214,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "0",
+                    "x": 407,
+                    "y": 214,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "495,000",
+                    "x": 472,
+                    "y": 214,
+                    "fontSize": 8,
+                    "width": 70,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "",
+                    "x": 537,
+                    "y": 214,
+                    "fontSize": 8,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "11105",
+                    "x": 50,
+                    "y": 234,
+                    "fontSize": 8,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "京成タクシーホールディングス",
+                    "x": 138,
+                    "y": 234,
+                    "fontSize": 7,
+                    "width": 130,
+                    "halign": "left",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "77,000",
+                    "x": 227,
+                    "y": 234,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "0",
+                    "x": 287,
+                    "y": 234,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "0",
+                    "x": 347,
+                    "y": 234,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "0",
+                    "x": 407,
+                    "y": 234,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "77,000",
+                    "x": 472,
+                    "y": 234,
+                    "fontSize": 8,
+                    "width": 70,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "",
+                    "x": 537,
+                    "y": 234,
+                    "fontSize": 8,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "12000",
+                    "x": 50,
+                    "y": 254,
+                    "fontSize": 8,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "ちばシティバス",
+                    "x": 138,
+                    "y": 254,
+                    "fontSize": 7,
+                    "width": 130,
+                    "halign": "left",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "6,100",
+                    "x": 227,
+                    "y": 254,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "0",
+                    "x": 287,
+                    "y": 254,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "974",
+                    "x": 347,
+                    "y": 254,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "0",
+                    "x": 407,
+                    "y": 254,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "5,126",
+                    "x": 472,
+                    "y": 254,
+                    "fontSize": 8,
+                    "width": 70,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "",
+                    "x": 537,
+                    "y": 254,
+                    "fontSize": 8,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "12200",
+                    "x": 50,
+                    "y": 274,
+                    "fontSize": 8,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "京成タウンバス",
+                    "x": 138,
+                    "y": 274,
+                    "fontSize": 7,
+                    "width": 130,
+                    "halign": "left",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "8,857",
+                    "x": 227,
+                    "y": 274,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "0",
+                    "x": 287,
+                    "y": 274,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "1,481",
+                    "x": 347,
+                    "y": 274,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "0",
+                    "x": 407,
+                    "y": 274,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "7,376",
+                    "x": 472,
+                    "y": 274,
+                    "fontSize": 8,
+                    "width": 70,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "",
+                    "x": 537,
+                    "y": 274,
+                    "fontSize": 8,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "12900",
+                    "x": 50,
+                    "y": 294,
+                    "fontSize": 8,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "東京ＢＲＴ(株)",
+                    "x": 138,
+                    "y": 294,
+                    "fontSize": 7,
+                    "width": 130,
+                    "halign": "left",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "264,000",
+                    "x": 227,
+                    "y": 294,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "0",
+                    "x": 287,
+                    "y": 294,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "66,000",
+                    "x": 347,
+                    "y": 294,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "0",
+                    "x": 407,
+                    "y": 294,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "198,000",
+                    "x": 472,
+                    "y": 294,
+                    "fontSize": 8,
+                    "width": 70,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "",
+                    "x": 537,
+                    "y": 294,
+                    "fontSize": 8,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "14000",
+                    "x": 50,
+                    "y": 314,
+                    "fontSize": 8,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "帝都自動車交通(株)",
+                    "x": 138,
+                    "y": 314,
+                    "fontSize": 7,
+                    "width": 130,
+                    "halign": "left",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "17,022",
+                    "x": 227,
+                    "y": 314,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "0",
+                    "x": 287,
+                    "y": 314,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "3,888",
+                    "x": 347,
+                    "y": 314,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "0",
+                    "x": 407,
+                    "y": 314,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "13,134",
+                    "x": 472,
+                    "y": 314,
+                    "fontSize": 8,
+                    "width": 70,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "",
+                    "x": 537,
+                    "y": 314,
+                    "fontSize": 8,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "14800",
+                    "x": 50,
+                    "y": 334,
+                    "fontSize": 8,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "京成オートサービス",
+                    "x": 138,
+                    "y": 334,
+                    "fontSize": 7,
+                    "width": 130,
+                    "halign": "left",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "6,804",
+                    "x": 227,
+                    "y": 334,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "0",
+                    "x": 287,
+                    "y": 334,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "1,700",
+                    "x": 347,
+                    "y": 334,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "0",
+                    "x": 407,
+                    "y": 334,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "5,104",
+                    "x": 472,
+                    "y": 334,
+                    "fontSize": 8,
+                    "width": 70,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "",
+                    "x": 537,
+                    "y": 334,
+                    "fontSize": 8,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "16100",
+                    "x": 50,
+                    "y": 354,
+                    "fontSize": 8,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "(株)ユアエルム京成",
+                    "x": 138,
+                    "y": 354,
+                    "fontSize": 7,
+                    "width": 130,
+                    "halign": "left",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "793,958",
+                    "x": 227,
+                    "y": 354,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "0",
+                    "x": 287,
+                    "y": 354,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "193,365",
+                    "x": 347,
+                    "y": 354,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "0",
+                    "x": 407,
+                    "y": 354,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "600,593",
+                    "x": 472,
+                    "y": 354,
+                    "fontSize": 8,
+                    "width": 70,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "",
+                    "x": 537,
+                    "y": 354,
+                    "fontSize": 8,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "16200",
+                    "x": 50,
+                    "y": 374,
+                    "fontSize": 8,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "(株)京成ストア",
+                    "x": 138,
+                    "y": 374,
+                    "fontSize": 7,
+                    "width": 130,
+                    "halign": "left",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "33,137",
+                    "x": 227,
+                    "y": 374,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "0",
+                    "x": 287,
+                    "y": 374,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "7,185",
+                    "x": 347,
+                    "y": 374,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "0",
+                    "x": 407,
+                    "y": 374,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "25,952",
+                    "x": 472,
+                    "y": 374,
+                    "fontSize": 8,
+                    "width": 70,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "",
+                    "x": 537,
+                    "y": 374,
+                    "fontSize": 8,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "16300",
+                    "x": 50,
+                    "y": 394,
+                    "fontSize": 8,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "コミュニティー京成",
+                    "x": 138,
+                    "y": 394,
+                    "fontSize": 7,
+                    "width": 130,
+                    "halign": "left",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "2,600,400",
+                    "x": 227,
+                    "y": 394,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "0",
+                    "x": 287,
+                    "y": 394,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "650,100",
+                    "x": 347,
+                    "y": 394,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "0",
+                    "x": 407,
+                    "y": 394,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "1,950,300",
+                    "x": 472,
+                    "y": 394,
+                    "fontSize": 8,
+                    "width": 70,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "",
+                    "x": 537,
+                    "y": 394,
+                    "fontSize": 8,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "17010",
+                    "x": 50,
+                    "y": 414,
+                    "fontSize": 8,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "京成不動産(株)",
+                    "x": 138,
+                    "y": 414,
+                    "fontSize": 7,
+                    "width": 130,
+                    "halign": "left",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "579,511",
+                    "x": 227,
+                    "y": 414,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "0",
+                    "x": 287,
+                    "y": 414,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "141,257",
+                    "x": 347,
+                    "y": 414,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "0",
+                    "x": 407,
+                    "y": 414,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "438,264",
+                    "x": 472,
+                    "y": 414,
+                    "fontSize": 8,
+                    "width": 70,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "",
+                    "x": 537,
+                    "y": 414,
+                    "fontSize": 8,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "17100",
+                    "x": 50,
+                    "y": 434,
+                    "fontSize": 8,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "京成ビルサービス(株)",
+                    "x": 138,
+                    "y": 434,
+                    "fontSize": 7,
+                    "width": 130,
+                    "halign": "left",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "55,088",
+                    "x": 227,
+                    "y": 434,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "0",
+                    "x": 287,
+                    "y": 434,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "13,497",
+                    "x": 347,
+                    "y": 434,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "0",
+                    "x": 407,
+                    "y": 434,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "41,591",
+                    "x": 472,
+                    "y": 434,
+                    "fontSize": 8,
+                    "width": 70,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "",
+                    "x": 537,
+                    "y": 434,
+                    "fontSize": 8,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "18000",
+                    "x": 50,
+                    "y": 454,
+                    "fontSize": 8,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "オリエンタルランド",
+                    "x": 138,
+                    "y": 454,
+                    "fontSize": 7,
+                    "width": 130,
+                    "halign": "left",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "1,900,360",
+                    "x": 227,
+                    "y": 454,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "0",
+                    "x": 287,
+                    "y": 454,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "475,090",
+                    "x": 347,
+                    "y": 454,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "0",
+                    "x": 407,
+                    "y": 454,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "1,425,270",
+                    "x": 472,
+                    "y": 454,
+                    "fontSize": 8,
+                    "width": 70,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "",
+                    "x": 537,
+                    "y": 454,
+                    "fontSize": 8,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "18100",
+                    "x": 50,
+                    "y": 474,
+                    "fontSize": 8,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "館山ロープウェー(株)",
+                    "x": 138,
+                    "y": 474,
+                    "fontSize": 7,
+                    "width": 130,
+                    "halign": "left",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "177,832",
+                    "x": 227,
+                    "y": 474,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "0",
+                    "x": 287,
+                    "y": 474,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "40,607",
+                    "x": 347,
+                    "y": 474,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "0",
+                    "x": 407,
+                    "y": 474,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "137,225",
+                    "x": 472,
+                    "y": 474,
+                    "fontSize": 8,
+                    "width": 70,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "",
+                    "x": 537,
+                    "y": 474,
+                    "fontSize": 8,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "18400",
+                    "x": 50,
+                    "y": 494,
+                    "fontSize": 8,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "千葉京成ホテル",
+                    "x": 138,
+                    "y": 494,
+                    "fontSize": 7,
+                    "width": 130,
+                    "halign": "left",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "15,328",
+                    "x": 227,
+                    "y": 494,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "0",
+                    "x": 287,
+                    "y": 494,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "3,833",
+                    "x": 347,
+                    "y": 494,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "0",
+                    "x": 407,
+                    "y": 494,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "11,495",
+                    "x": 472,
+                    "y": 494,
+                    "fontSize": 8,
+                    "width": 70,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "",
+                    "x": 537,
+                    "y": 494,
+                    "fontSize": 8,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "18600",
+                    "x": 50,
+                    "y": 514,
+                    "fontSize": 8,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "佐倉倶楽部",
+                    "x": 138,
+                    "y": 514,
+                    "fontSize": 7,
+                    "width": 130,
+                    "halign": "left",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "32,381",
+                    "x": 227,
+                    "y": 514,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "0",
+                    "x": 287,
+                    "y": 514,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "6,262",
+                    "x": 347,
+                    "y": 514,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "0",
+                    "x": 407,
+                    "y": 514,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "26,119",
+                    "x": 472,
+                    "y": 514,
+                    "fontSize": 8,
+                    "width": 70,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "",
+                    "x": 537,
+                    "y": 514,
+                    "fontSize": 8,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "18801",
+                    "x": 50,
+                    "y": 534,
+                    "fontSize": 8,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "イウォレ京成",
+                    "x": 138,
+                    "y": 534,
+                    "fontSize": 7,
+                    "width": 130,
+                    "halign": "left",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "197,480",
+                    "x": 227,
+                    "y": 534,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "0",
+                    "x": 287,
+                    "y": 534,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "49,377",
+                    "x": 347,
+                    "y": 534,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "0",
+                    "x": 407,
+                    "y": 534,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "148,103",
+                    "x": 472,
+                    "y": 534,
+                    "fontSize": 8,
+                    "width": 70,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "",
+                    "x": 537,
+                    "y": 534,
+                    "fontSize": 8,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "20000",
+                    "x": 50,
+                    "y": 554,
+                    "fontSize": 8,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "京成建設(株)",
+                    "x": 138,
+                    "y": 554,
+                    "fontSize": 7,
+                    "width": 130,
+                    "halign": "left",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "172,375",
+                    "x": 227,
+                    "y": 554,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "0",
+                    "x": 287,
+                    "y": 554,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "40,207",
+                    "x": 347,
+                    "y": 554,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "0",
+                    "x": 407,
+                    "y": 554,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "132,168",
+                    "x": 472,
+                    "y": 554,
+                    "fontSize": 8,
+                    "width": 70,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "",
+                    "x": 537,
+                    "y": 554,
+                    "fontSize": 8,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "20100",
+                    "x": 50,
+                    "y": 574,
+                    "fontSize": 8,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "京成電設工業(株)",
+                    "x": 138,
+                    "y": 574,
+                    "fontSize": 7,
+                    "width": 130,
+                    "halign": "left",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "24,200",
+                    "x": 227,
+                    "y": 574,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "0",
+                    "x": 287,
+                    "y": 574,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "5,500",
+                    "x": 347,
+                    "y": 574,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "0",
+                    "x": 407,
+                    "y": 574,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "18,700",
+                    "x": 472,
+                    "y": 574,
+                    "fontSize": 8,
+                    "width": 70,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "",
+                    "x": 537,
+                    "y": 574,
+                    "fontSize": 8,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "28000",
+                    "x": 50,
+                    "y": 594,
+                    "fontSize": 8,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "京成保険コンサルティング",
+                    "x": 138,
+                    "y": 594,
+                    "fontSize": 7,
+                    "width": 130,
+                    "halign": "left",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "256,216",
+                    "x": 227,
+                    "y": 594,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "0",
+                    "x": 287,
+                    "y": 594,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "61,854",
+                    "x": 347,
+                    "y": 594,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "0",
+                    "x": 407,
+                    "y": 594,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "194,362",
+                    "x": 472,
+                    "y": 594,
+                    "fontSize": 8,
+                    "width": 70,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "",
+                    "x": 537,
+                    "y": 594,
+                    "fontSize": 8,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "28010",
+                    "x": 50,
+                    "y": 614,
+                    "fontSize": 8,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "京成バラ園芸(株)",
+                    "x": 138,
+                    "y": 614,
+                    "fontSize": 7,
+                    "width": 130,
+                    "halign": "left",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "31,944",
+                    "x": 227,
+                    "y": 614,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "0",
+                    "x": 287,
+                    "y": 614,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "7,436",
+                    "x": 347,
+                    "y": 614,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "0",
+                    "x": 407,
+                    "y": 614,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "24,508",
+                    "x": 472,
+                    "y": 614,
+                    "fontSize": 8,
+                    "width": 70,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "",
+                    "x": 537,
+                    "y": 614,
+                    "fontSize": 8,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "28300",
+                    "x": 50,
+                    "y": 634,
+                    "fontSize": 8,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "(株)京成ドライビングスクール",
+                    "x": 138,
+                    "y": 634,
+                    "fontSize": 7,
+                    "width": 130,
+                    "halign": "left",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "283,250",
+                    "x": 227,
+                    "y": 634,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "0",
+                    "x": 287,
+                    "y": 634,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "70,813",
+                    "x": 347,
+                    "y": 634,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "0",
+                    "x": 407,
+                    "y": 634,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "212,437",
+                    "x": 472,
+                    "y": 634,
+                    "fontSize": 8,
+                    "width": 70,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "",
+                    "x": 537,
+                    "y": 634,
+                    "fontSize": 8,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "40014",
+                    "x": 50,
+                    "y": 654,
+                    "fontSize": 8,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "アイデム",
+                    "x": 138,
+                    "y": 654,
+                    "fontSize": 7,
+                    "width": 130,
+                    "halign": "left",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "438,900",
+                    "x": 227,
+                    "y": 654,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "0",
+                    "x": 287,
+                    "y": 654,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "109,725",
+                    "x": 347,
+                    "y": 654,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "0",
+                    "x": 407,
+                    "y": 654,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "329,175",
+                    "x": 472,
+                    "y": 654,
+                    "fontSize": 8,
+                    "width": 70,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "",
+                    "x": 537,
+                    "y": 654,
+                    "fontSize": 8,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "40025",
+                    "x": 50,
+                    "y": 674,
+                    "fontSize": 8,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "アサヒ飲料",
+                    "x": 138,
+                    "y": 674,
+                    "fontSize": 7,
+                    "width": 130,
+                    "halign": "left",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "746,130",
+                    "x": 227,
+                    "y": 674,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "0",
+                    "x": 287,
+                    "y": 674,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "186,533",
+                    "x": 347,
+                    "y": 674,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "0",
+                    "x": 407,
+                    "y": 674,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "559,597",
+                    "x": 472,
+                    "y": 674,
+                    "fontSize": 8,
+                    "width": 70,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "",
+                    "x": 537,
+                    "y": 674,
+                    "fontSize": 8,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "40183",
+                    "x": 50,
+                    "y": 694,
+                    "fontSize": 8,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "アイプラネット",
+                    "x": 138,
+                    "y": 694,
+                    "fontSize": 7,
+                    "width": 130,
+                    "halign": "left",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "52,250",
+                    "x": 227,
+                    "y": 694,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "0",
+                    "x": 287,
+                    "y": 694,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "11,963",
+                    "x": 347,
+                    "y": 694,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "0",
+                    "x": 407,
+                    "y": 694,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "40,287",
+                    "x": 472,
+                    "y": 694,
+                    "fontSize": 8,
+                    "width": 70,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "",
+                    "x": 537,
+                    "y": 694,
+                    "fontSize": 8,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "40490",
+                    "x": 50,
+                    "y": 714,
+                    "fontSize": 8,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "荒川区長",
+                    "x": 138,
+                    "y": 714,
+                    "fontSize": 7,
+                    "width": 130,
+                    "halign": "left",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "264,000",
+                    "x": 227,
+                    "y": 714,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "0",
+                    "x": 287,
+                    "y": 714,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "66,000",
+                    "x": 347,
+                    "y": 714,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "0",
+                    "x": 407,
+                    "y": 714,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "198,000",
+                    "x": 472,
+                    "y": 714,
+                    "fontSize": 8,
+                    "width": 70,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "",
+                    "x": 537,
+                    "y": 714,
+                    "fontSize": 8,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "42037",
+                    "x": 50,
+                    "y": 734,
+                    "fontSize": 8,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "市進ホールディングス",
+                    "x": 138,
+                    "y": 734,
+                    "fontSize": 7,
+                    "width": 130,
+                    "halign": "left",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "115,500",
+                    "x": 227,
+                    "y": 734,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "0",
+                    "x": 287,
+                    "y": 734,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "28,875",
+                    "x": 347,
+                    "y": 734,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "0",
+                    "x": 407,
+                    "y": 734,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "86,625",
+                    "x": 472,
+                    "y": 734,
+                    "fontSize": 8,
+                    "width": 70,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "",
+                    "x": 537,
+                    "y": 734,
+                    "fontSize": 8,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "42050",
+                    "x": 50,
+                    "y": 754,
+                    "fontSize": 8,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "イオン",
+                    "x": 138,
+                    "y": 754,
+                    "fontSize": 7,
+                    "width": 130,
+                    "halign": "left",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "47,374",
+                    "x": 227,
+                    "y": 754,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "0",
+                    "x": 287,
+                    "y": 754,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "11,110",
+                    "x": 347,
+                    "y": 754,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "0",
+                    "x": 407,
+                    "y": 754,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "36,264",
+                    "x": 472,
+                    "y": 754,
+                    "fontSize": 8,
+                    "width": 70,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "",
+                    "x": 537,
+                    "y": 754,
+                    "fontSize": 8,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "42116",
+                    "x": 50,
+                    "y": 774,
+                    "fontSize": 8,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "医療福祉総合研究所",
+                    "x": 138,
+                    "y": 774,
+                    "fontSize": 7,
+                    "width": 130,
+                    "halign": "left",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "63,470",
+                    "x": 227,
+                    "y": 774,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "0",
+                    "x": 287,
+                    "y": 774,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "13,668",
+                    "x": 347,
+                    "y": 774,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "0",
+                    "x": 407,
+                    "y": 774,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "49,802",
+                    "x": 472,
+                    "y": 774,
+                    "fontSize": 8,
+                    "width": 70,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "",
+                    "x": 537,
+                    "y": 774,
+                    "fontSize": 8,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "42122",
+                    "x": 50,
+                    "y": 794,
+                    "fontSize": 8,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "インバ建設",
+                    "x": 138,
+                    "y": 794,
+                    "fontSize": 7,
+                    "width": 130,
+                    "halign": "left",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "4,876",
+                    "x": 227,
+                    "y": 794,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "0",
+                    "x": 287,
+                    "y": 794,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "1,219",
+                    "x": 347,
+                    "y": 794,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "0",
+                    "x": 407,
+                    "y": 794,
+                    "fontSize": 8,
+                    "width": 60,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "3,657",
+                    "x": 472,
+                    "y": 794,
+                    "fontSize": 8,
+                    "width": 70,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "",
+                    "x": 537,
+                    "y": 794,
+                    "fontSize": 8,
+                    "halign": "center",
+                    "valign": "middle"
+                }
+            ]
+        }
+    ]
+}

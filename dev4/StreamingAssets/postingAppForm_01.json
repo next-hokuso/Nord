@@ -1,0 +1,835 @@
+{
+    "filename": "outputTest.pdf",
+    "orientation": "portrait",
+    "format": "a4",
+    "pages": [
+        {
+            "elements": [
+                {
+                    "type": "text",
+                    "value": "掲出申込書",
+                    "x": 180,
+                    "y": 40,
+                    "fontSize": 20,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "出力日付:",
+                    "x": 454,
+                    "y": 30,
+                    "fontSize": 9,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "",
+                    "x": 500,
+                    "y": 30,
+                    "fontSize": 9,
+                    "halign": "left",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "受付ID :",
+                    "x": 450,
+                    "y": 59,
+                    "fontSize": 9,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "",
+                    "x": 473,
+                    "y": 59,
+                    "fontSize": 9,
+                    "halign": "left",
+                    "valign": "middle"
+                },
+                {
+                    "type": "line",
+                    "x1": 425,
+                    "y1": 40,
+                    "x2": 565,
+                    "y2": 40,
+                    "lineWidth": 1
+                },
+                {
+                    "type": "line",
+                    "x1": 425,
+                    "y1": 50,
+                    "x2": 565,
+                    "y2": 50,
+                    "lineWidth": 1
+                },
+                {
+                    "type": "line",
+                    "x1": 425,
+                    "y1": 70,
+                    "x2": 565,
+                    "y2": 70,
+                    "lineWidth": 1
+                },
+                {
+                    "type": "line",
+                    "x1": 425,
+                    "y1": 50,
+                    "x2": 425,
+                    "y2": 70,
+                    "lineWidth": 1
+                },
+                {
+                    "type": "line",
+                    "x1": 565,
+                    "y1": 50,
+                    "x2": 565,
+                    "y2": 70,
+                    "lineWidth": 1
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 80,
+                    "x2": 565,
+                    "y2": 80,
+                    "lineWidth": 1
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 100,
+                    "x2": 565,
+                    "y2": 100,
+                    "lineWidth": 1
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 80,
+                    "x2": 30,
+                    "y2": 100,
+                    "lineWidth": 1
+                },
+                {
+                    "type": "line",
+                    "x1": 565,
+                    "y1": 80,
+                    "x2": 565,
+                    "y2": 100,
+                    "lineWidth": 1
+                },
+                {
+                    "type": "line",
+                    "x1": 165,
+                    "y1": 80,
+                    "x2": 165,
+                    "y2": 100,
+                    "lineWidth": 1
+                },
+                {
+                    "type": "line",
+                    "x1": 365,
+                    "y1": 80,
+                    "x2": 365,
+                    "y2": 100,
+                    "lineWidth": 1
+                },
+                {
+                    "type": "text",
+                    "value": "申込日 :",
+                    "x": 55,
+                    "y": 89,
+                    "fontSize": 9,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "",
+                    "x": 126,
+                    "y": 89,
+                    "fontSize": 9,
+                    "width": 100,
+                    "halign": "left",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "代理店名 :",
+                    "x": 195,
+                    "y": 89,
+                    "fontSize": 9,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "",
+                    "x": 295,
+                    "y": 89,
+                    "fontSize": 9,
+                    "width": 150,
+                    "halign": "left",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "担当者名 :",
+                    "x": 395,
+                    "y": 89,
+                    "fontSize": 9,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "",
+                    "x": 495,
+                    "y": 89,
+                    "fontSize": 9,
+                    "width": 150,
+                    "halign": "left",
+                    "valign": "middle"
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 110,
+                    "x2": 565,
+                    "y2": 110,
+                    "lineWidth": 1.5
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 150,
+                    "x2": 565,
+                    "y2": 150,
+                    "lineWidth": 1.5
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 110,
+                    "x2": 30,
+                    "y2": 150,
+                    "lineWidth": 1.5
+                },
+                {
+                    "type": "line",
+                    "x1": 565,
+                    "y1": 110,
+                    "x2": 565,
+                    "y2": 150,
+                    "lineWidth": 1.5
+                },
+                {
+                    "type": "text",
+                    "value": "広告主名（カナ） :",
+                    "x": 135,
+                    "y": 120,
+                    "fontSize": 11,
+                    "width": 135,
+                    "halign": "left",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "",
+                    "x": 370,
+                    "y": 120,
+                    "fontSize": 11,
+                    "width": 400,
+                    "halign": "left",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "広告主名　　　　 :",
+                    "x": 135,
+                    "y": 137,
+                    "fontSize": 11,
+                    "width": 135,
+                    "halign": "left",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "",
+                    "x": 370,
+                    "y": 137,
+                    "fontSize": 11,
+                    "width": 400,
+                    "halign": "left",
+                    "valign": "middle"
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 190,
+                    "x2": 565,
+                    "y2": 190,
+                    "lineWidth": 1.5
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 150,
+                    "x2": 30,
+                    "y2": 190,
+                    "lineWidth": 1.5
+                },
+                {
+                    "type": "line",
+                    "x1": 565,
+                    "y1": 150,
+                    "x2": 565,
+                    "y2": 190,
+                    "lineWidth": 1.5
+                },
+                {
+                    "type": "text",
+                    "value": "広告内容　　　　 :",
+                    "x": 135,
+                    "y": 160,
+                    "fontSize": 11,
+                    "width": 135,
+                    "halign": "left",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "",
+                    "x": 370,
+                    "y": 160,
+                    "fontSize": 11,
+                    "width": 400,
+                    "halign": "left",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "業種　　　　　　 :",
+                    "x": 135,
+                    "y": 177,
+                    "fontSize": 11,
+                    "width": 135,
+                    "halign": "left",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "",
+                    "x": 370,
+                    "y": 177,
+                    "fontSize": 11,
+                    "width": 400,
+                    "halign": "left",
+                    "valign": "middle"
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 210,
+                    "x2": 565,
+                    "y2": 210,
+                    "lineWidth": 1.5
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 190,
+                    "x2": 30,
+                    "y2": 210,
+                    "lineWidth": 1.5
+                },
+                {
+                    "type": "line",
+                    "x1": 565,
+                    "y1": 190,
+                    "x2": 565,
+                    "y2": 210,
+                    "lineWidth": 1.5
+                },
+                {
+                    "type": "line",
+                    "x1": 297,
+                    "y1": 190,
+                    "x2": 297,
+                    "y2": 210,
+                    "lineWidth": 1.5
+                },
+                {
+                    "type": "text",
+                    "value": "掲出期間 :",
+                    "x": 55,
+                    "y": 199,
+                    "fontSize": 9,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "",
+                    "x": 202,
+                    "y": 199,
+                    "fontSize": 9,
+                    "width": 247,
+                    "halign": "left",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "掲出申込締切日 :",
+                    "x": 336,
+                    "y": 199,
+                    "fontSize": 9,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "",
+                    "x": 497,
+                    "y": 199,
+                    "fontSize": 9,
+                    "width": 247,
+                    "halign": "left",
+                    "valign": "middle"
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 230,
+                    "x2": 565,
+                    "y2": 230,
+                    "lineWidth": 1.5
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 210,
+                    "x2": 30,
+                    "y2": 230,
+                    "lineWidth": 1.5
+                },
+                {
+                    "type": "line",
+                    "x1": 565,
+                    "y1": 210,
+                    "x2": 565,
+                    "y2": 230,
+                    "lineWidth": 1.5
+                },
+                {
+                    "type": "line",
+                    "x1": 297,
+                    "y1": 210,
+                    "x2": 297,
+                    "y2": 230,
+                    "lineWidth": 1.5
+                },
+                {
+                    "type": "line",
+                    "x1": 450,
+                    "y1": 210,
+                    "x2": 450,
+                    "y2": 230,
+                    "lineWidth": 1.5
+                },
+                {
+                    "type": "text",
+                    "value": "商品名　 :",
+                    "x": 55,
+                    "y": 219,
+                    "fontSize": 9,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "",
+                    "x": 202,
+                    "y": 219,
+                    "fontSize": 9,
+                    "width": 247,
+                    "halign": "left",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "掲出場所 :",
+                    "x": 322,
+                    "y": 219,
+                    "fontSize": 9,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "",
+                    "x": 470,
+                    "y": 219,
+                    "fontSize": 9,
+                    "width": 247,
+                    "halign": "left",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "板番号 :",
+                    "x": 471,
+                    "y": 219,
+                    "fontSize": 9,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "",
+                    "x": 547,
+                    "y": 219,
+                    "fontSize": 9,
+                    "width": 115,
+                    "halign": "left",
+                    "valign": "middle"
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 250,
+                    "x2": 565,
+                    "y2": 250,
+                    "lineWidth": 1.5
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 230,
+                    "x2": 30,
+                    "y2": 250,
+                    "lineWidth": 1.5
+                },
+                {
+                    "type": "line",
+                    "x1": 565,
+                    "y1": 230,
+                    "x2": 565,
+                    "y2": 250,
+                    "lineWidth": 1.5
+                },
+                {
+                    "type": "line",
+                    "x1": 163,
+                    "y1": 230,
+                    "x2": 163,
+                    "y2": 250,
+                    "lineWidth": 1.5
+                },
+                {
+                    "type": "line",
+                    "x1": 297,
+                    "y1": 230,
+                    "x2": 297,
+                    "y2": 250,
+                    "lineWidth": 1.5
+                },
+                {
+                    "type": "text",
+                    "value": "規格　　 :",
+                    "x": 55,
+                    "y": 239,
+                    "fontSize": 9,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "",
+                    "x": 145,
+                    "y": 239,
+                    "fontSize": 9,
+                    "width": 133,
+                    "halign": "left",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "枚数 :",
+                    "x": 180,
+                    "y": 239,
+                    "fontSize": 9,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "",
+                    "x": 260,
+                    "y": 239,
+                    "fontSize": 9,
+                    "width": 133,
+                    "halign": "left",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "掲出形態 :",
+                    "x": 322,
+                    "y": 239,
+                    "fontSize": 9,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "",
+                    "x": 470,
+                    "y": 239,
+                    "fontSize": 9,
+                    "width": 247,
+                    "halign": "left",
+                    "valign": "middle"
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 310,
+                    "x2": 565,
+                    "y2": 310,
+                    "lineWidth": 1.5
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 250,
+                    "x2": 30,
+                    "y2": 310,
+                    "lineWidth": 1.5
+                },
+                {
+                    "type": "line",
+                    "x1": 565,
+                    "y1": 250,
+                    "x2": 565,
+                    "y2": 310,
+                    "lineWidth": 1.5
+                },
+                {
+                    "type": "text",
+                    "value": "備考　　 :",
+                    "x": 55,
+                    "y": 259,
+                    "fontSize": 9,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "",
+                    "x": 346,
+                    "y": 259,
+                    "fontSize": 9,
+                    "width": 535,
+                    "halign": "left",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "",
+                    "x": 346,
+                    "y": 279,
+                    "fontSize": 9,
+                    "width": 535,
+                    "halign": "left",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "作業指示 :",
+                    "x": 55,
+                    "y": 299,
+                    "fontSize": 9,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "",
+                    "x": 346,
+                    "y": 299,
+                    "fontSize": 9,
+                    "width": 535,
+                    "halign": "left",
+                    "valign": "middle"
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 330,
+                    "x2": 565,
+                    "y2": 330,
+                    "lineWidth": 1.5
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 310,
+                    "x2": 30,
+                    "y2": 330,
+                    "lineWidth": 1.5
+                },
+                {
+                    "type": "line",
+                    "x1": 565,
+                    "y1": 310,
+                    "x2": 565,
+                    "y2": 330,
+                    "lineWidth": 1.5
+                },
+                {
+                    "type": "text",
+                    "value": "適用割引率 :",
+                    "x": 60,
+                    "y": 319,
+                    "fontSize": 9,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "",
+                    "x": 355,
+                    "y": 319,
+                    "fontSize": 9,
+                    "width": 535,
+                    "halign": "left",
+                    "valign": "middle"
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 430,
+                    "x2": 565,
+                    "y2": 430,
+                    "lineWidth": 1.5
+                },
+                {
+                    "type": "line",
+                    "x1": 30,
+                    "y1": 330,
+                    "x2": 30,
+                    "y2": 430,
+                    "lineWidth": 1.5
+                },
+                {
+                    "type": "line",
+                    "x1": 565,
+                    "y1": 330,
+                    "x2": 565,
+                    "y2": 430,
+                    "lineWidth": 1.5
+                },
+                {
+                    "type": "text",
+                    "value": "基本料金　:",
+                    "x": 115,
+                    "y": 339,
+                    "fontSize": 11,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "\u00A5 0",
+                    "x": 196,
+                    "y": 339,
+                    "fontSize": 11,
+                    "width": 117,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "掲出料金　:",
+                    "x": 382,
+                    "y": 339,
+                    "fontSize": 11,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "\u00A5 0",
+                    "x": 463,
+                    "y": 339,
+                    "fontSize": 11,
+                    "width": 117,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "維持費　　:",
+                    "x": 382,
+                    "y": 359,
+                    "fontSize": 11,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "\u00A5 0",
+                    "x": 463,
+                    "y": 359,
+                    "fontSize": 11,
+                    "width": 117,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "作業料　　:",
+                    "x": 382,
+                    "y": 379,
+                    "fontSize": 11,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "\u00A5 0",
+                    "x": 463,
+                    "y": 379,
+                    "fontSize": 11,
+                    "width": 117,
+                    "halign": "right",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "総額費用　:",
+                    "x": 382,
+                    "y": 414,
+                    "fontSize": 11,
+                    "halign": "center",
+                    "valign": "middle"
+                },
+                {
+                    "type": "text",
+                    "value": "\u00A5 0",
+                    "x": 463,
+                    "y": 414,
+                    "fontSize": 11,
+                    "width": 117,
+                    "halign": "right",
+                    "valign": "middle"
+                }
+            ]
+        }
+    ]
+}
